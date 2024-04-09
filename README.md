@@ -16,7 +16,7 @@ React will run on http://localhost:3000
 
 npm run dev
 
- ## Build for Production 
+ ## Build For Production 
 
  npm run build 
 
